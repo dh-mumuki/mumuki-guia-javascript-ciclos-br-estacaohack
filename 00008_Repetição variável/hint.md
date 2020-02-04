@@ -1,0 +1,1 @@
+Vamos voltar a utilizar a palavra reservada **return** ao invés de console.log
